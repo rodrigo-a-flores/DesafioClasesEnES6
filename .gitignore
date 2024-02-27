@@ -6,7 +6,6 @@ node_modules
 Thumbs.db
 
 # Directorios de salida
-/dist
 /build
 
 # Archivos de configuración de entorno
